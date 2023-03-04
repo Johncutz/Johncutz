@@ -8,7 +8,7 @@ Graduating in Software Engineering, from Cruzeiro do Sul University, always a te
 Currently focusing on Front-End, with vast interest in Back-End, seeking to be a Full-Stack professional. I have personal personal projects, but I am looking for new opportunities to demonstrate qualification and do my part within a fantastic team. I always aim for more knowledge in areas of my interest such as: AI, Devops, Architecture and Software Development. 
 </div>
 
-
+<br>
 
 <div align="center">
   <a href="https://github.com/Johncutz">
