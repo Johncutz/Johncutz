@@ -1,4 +1,16 @@
 ## Olá! Eu sou o João Vitor Ribeiro Cândido
+==========================================
+
+Fron-End Developer - Software Developer
+-------------------------------------------
+
+<div align="justify"> Flexible, Resilient, SelfLearner, Focused and Collaborative Professional.
+Graduating in Software Engineering, from Cruzeiro do Sul University, always a technology admirer, with an interest in software creation and development.
+Currently focusing on Front-End, with vast interest in Back-End, seeking to be a Full-Stack professional. I have personal personal projects, but I am looking for new opportunities to demonstrate qualification and do my part within a fantastic team. I always aim for more knowledge in areas of my interest such as: AI, Devops, Architecture and Software Development. 
+</div>
+
+Languages and Tools:
+------------------------------------------
 
 <div align="center">
   <a href="https://github.com/Johncutz">
@@ -18,7 +30,8 @@
 
 </div>
   
-  ##
+Social Media:
+--------------------------------------------
   
 <div align="center">
   <a href="mailto:joaovitorcut@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
@@ -32,7 +45,3 @@
 </div>
   
  ##
-  
-Profissional Flexível, Resiliente, Auto-Didata, Focado e Colaborativo.
-Graduando em Engenharia de Software, pela universidade Cruzeiro do Sul, desde sempre admirador de tecnologia, com interesse em criação e desenvolvimento de softwares.
-Atualmente focando em Front-End, com vasto interesse em Back-End, buscando ser um profissional Full-Stack. Tenho desenvolvido projetos pessoais, mas estou em busca de novas oportunidades para demonstrar aptidão e fazer minha parte dentro de uma equipe fantástica. Almejo sempre mais conhecimento em áreas de meu interesse como: IA, Devops, Arquitetura e Desenvolvimento de Software.
