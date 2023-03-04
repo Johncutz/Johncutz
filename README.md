@@ -4,9 +4,13 @@ Hello! I am João Vitor Ribeiro Cândido
 Fron-End Developer - Software Developer
 -------------------------------------------
 
-<div align="justify"> Flexible, Resilient, SelfLearner, Focused and Collaborative Professional.
-Graduating in Software Engineering, from <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul University</a>, always a technology admirer, with an interest in software creation and development.
-Currently focusing on Front-End, with vast interest in Back-End, seeking to be a Full-Stack professional. I have personal personal projects, but I am looking for new opportunities to demonstrate qualification and do my part within a fantastic team. I always aim for more knowledge in areas of my interest such as: AI, Devops, Architecture and Software Development. 
+<div align="justify"> I'm a 20 year old front-end developer who loves to pick up new skills and absorb new content through reading. With an unwavering focus on achieving my goals and contributing more and more to my team, I strive to embrace challenging situations to learn from the experiences I have had.
+
+As a professional, I am always determined and focused on delivering quality projects and meeting customer expectations. In addition, I am a committed employee, able to work in a team and collaborate with colleagues to achieve common goals.
+
+I believe that continuous learning is critical to success in the software development industry. So I'm always looking for new ways to improve myself, whether it's through reading, participating in developer communities, or experimenting with new technologies.
+
+I'm always looking for new opportunities to grow, eager to learn new things, contribute to my team and the company as a whole. 
 </div>
 
 <br>
