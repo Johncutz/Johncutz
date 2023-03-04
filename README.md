@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Vitor Ribeiro Cândido
+## Hello! I am João Vitor Ribeiro Cândido
 
 Fron-End Developer - Software Developer
 -------------------------------------------
