@@ -1,4 +1,5 @@
-## Hello! I am João Vitor Ribeiro Cândido
+Hello! I am João Vitor Ribeiro Cândido
+=========================================
 
 Fron-End Developer - Software Developer
 -------------------------------------------
@@ -9,6 +10,10 @@ Currently focusing on Front-End, with vast interest in Back-End, seeking to be a
 </div>
 
 <br>
+
+* 🌍 I am based in São Paulo, Brazil
+* ✉️ You can contact me at [joaovitorcut@gmail.com](mailto:joaovitocut@gmail.com)
+* 🚀 I am currently working at [Corebiz](https://www.corebiz.ag/) - VTEX IO, VTEX Legacy, JavaScript, ReactJS, Sass, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/Johncutz">
