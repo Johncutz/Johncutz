@@ -5,7 +5,7 @@ Fron-End Developer - Software Developer
 -------------------------------------------
 
 <div align="justify"> Flexible, Resilient, SelfLearner, Focused and Collaborative Professional.
-Graduating in Software Engineering, from Cruzeiro do Sul University, always a technology admirer, with an interest in software creation and development.
+Graduating in Software Engineering, from <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul University</a>, always a technology admirer, with an interest in software creation and development.
 Currently focusing on Front-End, with vast interest in Back-End, seeking to be a Full-Stack professional. I have personal personal projects, but I am looking for new opportunities to demonstrate qualification and do my part within a fantastic team. I always aim for more knowledge in areas of my interest such as: AI, Devops, Architecture and Software Development. 
 </div>
 
@@ -15,11 +15,15 @@ Currently focusing on Front-End, with vast interest in Back-End, seeking to be a
 * ✉️ You can contact me at [joaovitorcut@gmail.com](mailto:joaovitocut@gmail.com)
 * 🚀 I am currently working at [Corebiz](https://www.corebiz.ag/) - VTEX IO, VTEX Legacy, JavaScript, ReactJS, Sass, HTML and CSS
 
+<br>
+
 <div align="center">
   <a href="https://github.com/Johncutz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johncutz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncutz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
+<br>
   
   Languages and Tools:
 ------------------------------------------
