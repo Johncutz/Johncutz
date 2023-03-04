@@ -8,14 +8,17 @@ Graduating in Software Engineering, from Cruzeiro do Sul University, always a te
 Currently focusing on Front-End, with vast interest in Back-End, seeking to be a Full-Stack professional. I have personal personal projects, but I am looking for new opportunities to demonstrate qualification and do my part within a fantastic team. I always aim for more knowledge in areas of my interest such as: AI, Devops, Architecture and Software Development. 
 </div>
 
-Languages and Tools:
-------------------------------------------
+
 
 <div align="center">
   <a href="https://github.com/Johncutz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johncutz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncutz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
+  Languages and Tools:
+------------------------------------------
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
