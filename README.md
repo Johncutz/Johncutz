@@ -33,6 +33,6 @@
   
  ##
   
-Profissional Flexível, Resiliente, Auto-Didata, Focado e Competitivo.
+Profissional Flexível, Resiliente, Auto-Didata, Focado e Colaborativo.
 Graduando em Engenharia de Software, pela universidade Cruzeiro do Sul, desde sempre admirador de tecnologia, com interesse em criação e desenvolvimento de softwares.
 Atualmente focando em Front-End, com vasto interesse em Back-End, buscando ser um profissional Full-Stack. Tenho desenvolvido projetos pessoais, mas estou em busca de novas oportunidades para demonstrar aptidão e fazer minha parte dentro de uma equipe fantástica. Almejo sempre mais conhecimento em áreas de meu interesse como: IA, Devops, Arquitetura e Desenvolvimento de Software.
