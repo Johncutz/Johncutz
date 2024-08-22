@@ -1,7 +1,7 @@
 Hello! I am João Vitor Ribeiro Cândido
 =========================================
 
-Fron-End Developer - Software Developer
+Front-End Developer - Software Developer
 -------------------------------------------
 
 <div align="justify"> Front-End Developer, 21 years old, passionate about acquiring new skills and absorbing knowledge, especially through reading. I have an unwavering focus on achieving my goals and contributing to my team's success, always seeking to embrace challenges that allow me to learn and grow.
