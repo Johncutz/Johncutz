@@ -4,13 +4,13 @@ Hello! I am João Vitor Ribeiro Cândido
 Fron-End Developer - Software Developer
 -------------------------------------------
 
-<div align="justify"> I'm a 20 year old front-end developer who loves to pick up new skills and absorb new content through reading. With an unwavering focus on achieving my goals and contributing more and more to my team, I strive to embrace challenging situations to learn from the experiences I have had.
+<div align="justify"> Front-End Developer, 21 years old, passionate about acquiring new skills and absorbing knowledge, especially through reading. I have an unwavering focus on achieving my goals and contributing to my team's success, always seeking to embrace challenges that allow me to learn and grow.
 
-As a professional, I am always determined and focused on delivering quality projects and meeting customer expectations. In addition, I am a committed employee, able to work in a team and collaborate with colleagues to achieve common goals.
+As a professional, I am determined and focused on delivering high-quality projects, always meeting or exceeding client expectations. I greatly value teamwork and am committed to collaborating effectively to achieve common goals.
 
-I believe that continuous learning is critical to success in the software development industry. So I'm always looking for new ways to improve myself, whether it's through reading, participating in developer communities, or experimenting with new technologies.
+I am preparing to begin a specialization in Front-end Engineering at FIAP, reinforcing my commitment to becoming an expert in this field. I believe that continuous learning is essential for success in software development. Therefore, I am always seeking new ways to improve, whether through reading, active participation in developer communities, or experimenting with new technologies such as ReactJS, TypeScript, and VTEX IO.
 
-I'm always looking for new opportunities to grow, eager to learn new things, contribute to my team and the company as a whole. 
+I am excited to explore new opportunities that allow me to grow, learn, and contribute even more to my team and company. I am ready to face new challenges and add value through my skills and dedication.
 </div>
 
 <br>
